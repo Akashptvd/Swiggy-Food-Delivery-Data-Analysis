@@ -1,4 +1,4 @@
-# Swiggy Food Delivery Data Analysis
+# Swiggy Food Delivery Analysis
 
 ## Project Overview
 This project focuses on Exploratory Data Analysis (EDA) of Swiggy food delivery data using Python. The objective is to understand customer ordering patterns, food preferences, restaurant performance, delivery efficiency and customer satisfaction.
